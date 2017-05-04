@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Pop Movies</string>
+    <string name="movie_details">Movie Details</string>
+    <string name="movie_thumb_desc">Thumbnail of Movie Poster</string>
+    <string name="movie_poster_desc">The Movie Front Poster</string>
+    <string name="max_rating">/10</string>
+    <string name="fetching_error">Unable to fetch Movie Data</string>
+    <string name="unknown">Unknown</string>
+    <string name="no_available_details">No available Movie Details</string>
+    <string name="play_button">Play Video Image</string>
+    <string name="no_available_reviews">No Available Reviews</string>
+    <string name="favorite_button">Favorite Button</string>
+    <string name="see_reviews">SEE REVIEWS</string>
+    <string name="year">Year:</string>
+    <string name="rating_col">Rating:</string>
+    <string name="popular">Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="favorites">Favorites</string>
+    <string name="added_to_favorites">Movie Added to Favorites</string>
+    <string name="removed_from_favorites">Movie Removed from Favorites</string>
+    <string name="movie_reviews">Movie Reviews</string>
+</resources>
